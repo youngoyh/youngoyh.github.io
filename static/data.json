@@ -1,15 +1,18 @@
-[{
+{
 	"menu":[{
-		"menu":"html"
-	},{
-		"menu":"css"
-	},{
-		"menu":"javascript"
-	},{
-		"menu":"vue"
-	}]
-},{
-	"user":[{
-		
-	}]
-}]
+			"menu":"html"
+		},{
+			"menu":"css"
+		},{
+			"menu":"javascript"
+		},{
+			"menu":"vue"
+	}],
+	"headTop":{
+		"name":"OYH Blog"
+	},
+	"topImage":{
+		"monicker":"OYH Blog",
+		"sendWord":"You are the apple of my eyes"
+	}
+}
